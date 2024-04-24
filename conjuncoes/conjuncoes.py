@@ -1,4 +1,5 @@
 print("::::: Matemática Discreta - Conjunções (^)  :::::")
+print("Para que P ^ Q = V, ambos os valores precisam ser = V.")
 
 while True:
     print("Considerando p e q, informe se são 'V' (verdadeiro) ou 'F' (falso): ")
