@@ -1,15 +1,10 @@
 print("::::: Matemática Discreta - Cardinalidade :::::")
 
-#def contador(elementos):
-
-#    return elementos.strip().count(",") + 1
-#
 while True:
     elementos = input("Informe os elementos do conjunto separando-os por uma virgula: ")
     
     elementosClean = elementos.replace(" ", "").split(",")
     conjunto = set(elementosClean)
-    
     cardinalidade = len(conjunto)
     
     print("O conjunto informado possui a cardinalidade =", cardinalidade)
