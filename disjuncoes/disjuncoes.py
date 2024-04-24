@@ -1,0 +1,28 @@
+print("::::: Matemática Discreta - Disjunções (∨)  :::::")
+print("Para que P v Q = V, pelo menos 1 dos valores precisa ser = V.")
+
+while True:
+    print("Considerando p e q, informe se são 'V' (verdadeiro) ou 'F' (falso): ")
+    p = input("P: ")
+    q = input("Q: ")
+
+    if (p == "V" or p == "v") and (q == "V" or q == "v"):
+        print("P v Q = V")
+        
+    elif (p == "V" or p == "v") and (q == "F" or q == "f"):    
+        print("P v Q = V")
+        
+    elif (p == "F" or p == "f") and (q == "V" or q == "v"):    
+        print("P v Q = V")
+        
+    elif (p == "F" or p == "f") and (q == "F" or q == "f"):
+        print("P v Q = F")   
+        
+    else:    
+        print("Valor inválido. Por favor, informe apenas 'V' ou 'F'.")
+        
+    encerrarPrograma = input("Pressione '*' para sair ou qualquer outro caracter para informar os valores de P e Q novamente: ")    
+
+    if encerrarPrograma.lower() == "*":
+        print("Programa finalizado!")
+        break
