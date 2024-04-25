@@ -1,5 +1,5 @@
-print("::::: Matemática Discreta - Condicional (→)  :::::")
-print("Para que P → Q = V, pelo menos 1 dos valores precisa ser = V.")
+print("::::: Matemática Discreta - Condicional (->)  :::::")
+print("Lemos 'Se P então Q' ")
 
 while True:
     print("Considerando p e q, informe se são 'V' (verdadeiro) ou 'F' (falso): ")
@@ -7,16 +7,16 @@ while True:
     q = input("Q: ")
 
     if (p == "V" or p == "v") and (q == "V" or q == "v"):
-        print("P → Q = V")
+        print("P -> Q = V")
         
     elif (p == "V" or p == "v") and (q == "F" or q == "f"):    
-        print("P → Q = F")
+        print("P -> Q = F")
         
     elif (p == "F" or p == "f") and (q == "V" or q == "v"):    
-        print("P → Q = V")
+        print("P -> Q = V")
         
     elif (p == "F" or p == "f") and (q == "F" or q == "f"):
-        print("P → Q = V")   
+        print("P -> Q = V")   
         
     else:    
         print("Valor inválido. Por favor, informe apenas 'V' ou 'F'.")
