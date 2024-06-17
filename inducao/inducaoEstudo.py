@@ -1,11 +1,11 @@
-print("::::: Matemática Discreta - Indução Matemárica :::::")
+print("::::: Matemática Discreta - Indução Matemática :::::")
 print("\n")
 
-print("Teste seus conhecimentos sobre Indução Matemárica: ")
+print("Teste seus conhecimentos sobre Indução Matemática: ")
 
 perguntas = [
     {
-        "mensagem": "\nO que é P.P.I.M? \na) Para Poder Ir a Madrid \nb) Primeiro Principio de Indução Matemárica \nResposta: ",
+        "mensagem": "\nO que é P.P.I.M? \na) Para Poder Ir a Madrid \nb) Primeiro Principio de Indução Matemática \nResposta: ",
         "respostaCorreta" : 'b' or 'B',
         "acertos": "Parabéns, você acertou! (:\n"
 
