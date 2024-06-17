@@ -1,0 +1,62 @@
+('C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\files and '
+ 'docs\\faculdade\\matematica '
+ 'discreta\\discrete-mathematics-programs\\inducao\\build\\inducaoEstudo\\inducaoEstudo.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\files and '
+   'docs\\faculdade\\matematica '
+   'discreta\\discrete-mathematics-programs\\inducao\\build\\inducaoEstudo\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\files and '
+   'docs\\faculdade\\matematica '
+   'discreta\\discrete-mathematics-programs\\inducao\\build\\inducaoEstudo\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\files and '
+   'docs\\faculdade\\matematica '
+   'discreta\\discrete-mathematics-programs\\inducao\\build\\inducaoEstudo\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\files and '
+   'docs\\faculdade\\matematica '
+   'discreta\\discrete-mathematics-programs\\inducao\\build\\inducaoEstudo\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\files and '
+   'docs\\faculdade\\matematica '
+   'discreta\\discrete-mathematics-programs\\inducao\\build\\inducaoEstudo\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\files and '
+   'docs\\faculdade\\matematica '
+   'discreta\\discrete-mathematics-programs\\inducao\\build\\inducaoEstudo\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\rafae\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\rafae\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('inducaoEstudo',
+   'C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\files and '
+   'docs\\faculdade\\matematica '
+   'discreta\\discrete-mathematics-programs\\inducao\\inducaoEstudo.py',
+   'PYSOURCE')],
+ 'python311.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
