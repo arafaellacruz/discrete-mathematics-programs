@@ -17,9 +17,10 @@ Dentro de cada programinha, existe uma pasta `dist`, nela você encontrará os a
 ## Conteúdos abortados
 
 - Teoria de Conjuntos;
+- Conjunto Vazizo;
 - Continência;
 - Cardinalidade;
 - Conjunções e Disjunções;
 - Condicional (->) e Bicondicional (<->);
 - Tabelas-Verdades;
-- Fechos nas Endorrelações
+- Fechos nas Endorrelações.
